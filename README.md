@@ -1,5 +1,10 @@
 # wordle
 
+## Demo
+```
+Check out the demo (https://derin-wordle.netlify.app/)
+```
+
 ## Project setup
 ```
 npm install
